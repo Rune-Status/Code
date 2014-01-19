@@ -43,17 +43,5 @@ if range_level == mage_level:
         print "Your combat level is Melee based!\n Your combat level is:"
         melee = (base_cmb+melee_cmb)
         print melee
-
-
-"""
-print "Your base combat level is:"
-print base_cmb
-print "Your melee combat level is:"
-print melee_cmb
-print "Your mage combat level is:"
-print mage_cmb
-print "Your range combat level is:"
-print range_cmb
-"""
             
     
